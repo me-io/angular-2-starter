@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AboutComponent {
 
   constructor() {
-    console.log('HI');
+    console.log('HI m oin');
   }
 
 }
